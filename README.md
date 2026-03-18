@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Singh Verma
 
-<!--
-**gsvsinghverma/gsvsinghverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Ansible  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- AWS (EC2, EKS, S3, RDS, VPC)
+- Kubernetes (K8s)
+- Terraform & Ansible
+- Jenkins (CI/CD)
+- Linux & Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### 🔹 Kubernetes Cluster Automation
+- Created 13 VMs using Terraform (KVM)
+- Setup HA Kubernetes cluster (3 Master + 3 Worker)
+- Used HAProxy & Keepalived
+
+### 🔹 AWS EKS Setup
+- Multi-AZ architecture with VPC
+- EKS cluster deployment
+- RDS PostgreSQL & S3 integration
+
+### 🔹 Communication Platform
+- Asterisk (VoIP), Openfire (Chat), Jitsi Meet (Video)
+
+## 📫 Contact Me
+- Email: gauravsinghverma28@gmail.com
